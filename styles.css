@@ -269,3 +269,8 @@ footer {
     font-size: 64px;
     margin-bottom: 16px;
 }
+
+.status-closed {
+    background-color: #f8d7da;
+    color: #721c24;
+}
